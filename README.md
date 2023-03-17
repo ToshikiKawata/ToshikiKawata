@@ -1,12 +1,40 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshikiKawata)](https://github.com/ToshikiKawata/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToshikiKawata)](https://github.com/ToshikiKawata/github-readme-stats) 
-
-<h1 align="center">Hi 👋, I'm ToshikiKawata</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ヘッダー -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="150px">
+  <br>
+  <b>Toshiki Kawata</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<!-- 自己紹介 -->
+<h2 align="center">自己紹介</h2>
+
+<p align="center">
+はじめまして、Toshiki Kawataです。Web開発や機械学習に興味があります。最近は特に、自然言語処理に関心があります。
+</p>
+
+<!-- スキル -->
+<h2 align="center">スキルセット</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML/CSS-61DAFB?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+</p>
+
+<!-- 興味があるプロジェクト -->
+<h2 align="center">興味があるプロジェクト</h2>
+
+<p align="center">
+  自然言語処理を用いたテキスト分類<br>
+  コンピュータビジョンに関する研究<br>
+  Webアプリケーションの開発
+</p>
+
+<!-- お問い合わせ -->
+<h2 align="center">お問い合わせ</h2>
+
+<p align="center">
+  ご質問やご相談がある場合は、<a href="mailto:toshiki.kawata@example.com">toshiki.kawata@example.com</a>までお気軽にお問い合わせください。
+</p>
