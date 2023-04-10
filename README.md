@@ -40,6 +40,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToshikiKawata&theme=tokyonight" width="49%">
 </p>
 
+Qiita: [Qiitaのプロフィールページ](https://qiita.com/ToshikiKawata)
+
 <!-- コンタクト -->
 <h2 align="center" style="border-bottom: 3px solid #FF69B4;">コンタクト</h2>
 
